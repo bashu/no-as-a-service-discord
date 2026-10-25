@@ -11,7 +11,13 @@ you:  @No Bot can you cover my shift on Saturday?
 bot:  In a different season of life, I might say yes—but not right now.
 ```
 
-## Setup
+## Add it to Discord
+
+[Install No Bot](https://discord.com/oauth2/authorize?client_id=1563551737325948950). You can add
+it to a server, or to your own account to use `/no` in any DM or group chat, even where the bot
+isn't a member.
+
+## Self-hosting
 
 1. Create an application in the [Discord Developer Portal](https://discord.com/developers/applications),
    open **Bot** and copy the token.
