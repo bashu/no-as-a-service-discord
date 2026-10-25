@@ -1,0 +1,17 @@
+[project]
+name = "no-as-a-service-discord"
+version = "0.1.0"
+description = "Discord bot that gives you a reason to say no"
+readme = "README.md"
+authors = [ { name = "Basil Sh.", email = "basil.shubin@gmail.com" } ]
+requires-python = ">=3.14"
+classifiers = [
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.14",
+  "Programming Language :: Python :: 3.15",
+]
+dependencies = [
+  "environs>=15.2",
+  "hikari[speedups]>=2.6",
+  "hikari-lightbulb>=3.2.6",
+]
